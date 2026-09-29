@@ -41,9 +41,3 @@ password: ParkirajBa2
 
 ---
 
-## Konekcijski string
-
-```json
-"ConnectionStrings": {
-  "DefaultConnection": "Data Source=SQL6032.site4now.net;Initial Catalog=db_ac8dcd_parkirajba;User Id=db_ac8dcd_parkirajba_admin;Password=ParkirajBa2"
-}
