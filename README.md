@@ -40,4 +40,10 @@ password: ParkirajBa2
 | Registrovani Korisnik | tbeganovic2@etf.unsa.ba     | Korisnik123!  |
 
 ---
+## Demo video
+
+Kratka demonstracija korištenja aplikacije dostupna je na sljedećem linku:
+
+▶️ [Pogledaj demo video aplikacije ParkirajBa](https://drive.google.com/file/d/1_4RFVDiNRdJGyvIHNG5wNGbMUKWBeBOj/view?usp=sharing)
+
 
